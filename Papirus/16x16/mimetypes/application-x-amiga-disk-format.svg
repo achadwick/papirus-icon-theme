@@ -1,1 +1,26 @@
-application-x-iso.svg
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient4619" x1="26" x2="26" y1="45" y2="54" gradientTransform="matrix(.25 0 0 .25 .25 .5)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#50beee" offset="0"/>
+   <stop style="stop-color:#248afd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient979" x1="26" x2="26" y1="45" y2="54" gradientTransform="matrix(.25 0 0 .25 .25 .5)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#6dc9f5" offset="0"/>
+   <stop style="stop-color:#248afd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4580" x1="42" x2="42" y1="30" y2="54" gradientTransform="matrix(.25 0 0 .25 .25 .5)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#f9548f" offset="0"/>
+   <stop style="stop-color:#fecd38" offset=".5"/>
+   <stop style="stop-color:#79de7d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="M 2.8125,0 C 2.362375,0 2,0.3568 2,0.8 V 15.2 C 2,15.6432 2.362375,16 2.8125,16 h 11.375 C 14.637625,16 15,15.6432 15,15.2 V 5 L 11,4 10,0 Z" style="fill:#7767c0;stop-color:#000000"/>
+ <path d="M 15,5 10,0 V 4.1666667 C 10,4.6283333 10.371667,5 10.833333,5 Z" style="fill:#9182d7;stop-color:#000000"/>
+ <g>
+  <path d="m10 9-4 6h2.75l4-6z" style="fill-opacity:.2;stop-color:#000000"/>
+  <path d="m4 12 1.875 2.8125 1.375-2.0625-0.5-0.75z" style="fill-opacity:.2;stop-color:#000000"/>
+  <path d="m10 8-4 6h2.75l4-6z" style="fill:url(#linearGradient4580);stop-color:#000000"/>
+  <path d="m4 11 1.875 2.8125 0.625-0.9375-1.25-1.875zm1.5 0 1.125 1.6875 0.625-0.9375-0.5-0.75z" style="fill:url(#linearGradient4619);stop-color:#000000"/>
+  <path d="m4 11 1.875 2.8125 1.375-2.0625-0.5-0.75z" style="fill:url(#linearGradient979);stop-color:#000000"/>
+ </g>
+</svg>

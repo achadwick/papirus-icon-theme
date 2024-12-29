@@ -1,1 +1,24 @@
-application-x-iso.svg
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient1801-1" x1="26" x2="26" y1="45" y2="54" gradientTransform="matrix(.375 0 0 .375 -6.2499999 -2.25)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#50beee" offset="0"/>
+   <stop style="stop-color:#248afd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4580-6-6" x1="42" x2="42" y1="30" y2="54" gradientTransform="matrix(.375 0 0 .375 -1.1249999 -2.25)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#f9548f" offset="0"/>
+   <stop style="stop-color:#fecd38" offset=".5"/>
+   <stop style="stop-color:#79de7d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m4 1.5c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-13l-6-6z" style="opacity:.2"/>
+ <path d="m4 1c-0.554 0-1 0.446-1 1v18c0 0.554 0.446 1 1 1h14c0.554 0 1-0.446 1-1v-13l-5-1-1-5z" style="fill:#7767c0;stop-color:#000000"/>
+ <path d="m19 7.5-6-6v5c0 0.554 0.446 1 1 1z" style="opacity:.2"/>
+ <path d="m19 7-6-6v5c0 0.554 0.446 1 1 1z" style="fill:#9182d7;stop-color:#000000"/>
+ <path d="m4 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h9v-0.5z" style="fill:#ffffff;opacity:.2"/>
+ <g>
+  <path d="m13.5 10-6 9h2l6-9h-2zm2.5 0-6 9h2l6-9h-2zm-12 4 3.1660156 4.75 1-1.5-2.1660156-3.25h-2zm2.5 0 1.9160156 2.875 1-1.5-0.9160156-1.375h-2z" style="fill-opacity:.2;stop-color:#000000"/>
+  <path d="m13.5 9-5.9999999 9h1.9999999l6-9zm2.5 0-6 9h2l6-9z" style="fill:url(#linearGradient4580-6-6);stop-color:#000000"/>
+  <path d="m4 13 3.1660156 4.75 1-1.5-2.1660156-3.25h-2zm2.5 0 1.9160156 2.875 1-1.5-0.9160156-1.375h-2z" style="fill:url(#linearGradient1801-1);stop-color:#000000"/>
+  <path d="m13.5 9-6 9h0.6660156l5.3339844-8h1.333984l0.666016-1h-2zm2.5 0-6 9h0.666016l5.333984-8h1.333984l0.666016-1h-2zm-12 4 0.6660156 1h1.3339844l1.8320312 2.75 0.3339844-0.5-2.1660156-3.25h-2zm2.5 0 0.6660156 1h1.3339844l0.5820312 0.875 0.3339844-0.5-0.9160156-1.375h-2z" style="fill-opacity:.2;fill:#ffffff;stop-color:#000000"/>
+ </g>
+</svg>
