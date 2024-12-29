@@ -1,1 +1,26 @@
-application-x-iso.svg
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient4580" x1="42" x2="42" y1="30" y2="54" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#f9548f" offset="0"/>
+   <stop style="stop-color:#fecd38" offset=".5"/>
+   <stop style="stop-color:#79de7d" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4619" x1="26" x2="26" y1="45" y2="54" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#50beee" offset="0"/>
+   <stop style="stop-color:#248afd" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m12.75 5c-1.5235 0-2.75 1.2488-2.75 2.8v50.4c0 1.55008 1.2265 2.8 2.75 2.8h38.5c1.5224 0 2.75-1.24992 2.75-2.8v-35.2l-14-4-4-14z" style="opacity:.2"/>
+ <path d="m12.75 4c-1.5235 0-2.75 1.2488-2.75 2.8v50.4c0 1.55008 1.2265 2.8 2.75 2.8h38.5c1.5224 0 2.75-1.24992 2.75-2.8v-35.2l-14-4-4-14z" style="fill:#7767c0;stop-color:#000000"/>
+ <path d="m54 23-18-18v15.1875c0 1.55925 1.2555 2.8125 2.8125 2.8125z" style="opacity:.2"/>
+ <path d="m54 22-18-18v15.1875c0 1.55925 1.2555 2.8125 2.8125 2.8125z" style="fill:#9182d7;stop-color:#000000"/>
+ <path d="M 12.75,4 C 11.2265,4 10,5.2495812 10,6.8007812 v 1 C 10,6.2495813 11.2265,5 12.75,5 H 36 V 4 Z" style="fill:#ffffff;opacity:.2"/>
+ <g>
+  <path d="m15 43 7.5 11.25 2.5-3.75-5-7.5zm6 0 4.5 6.75 2.5-3.75-2-3z" style="fill-opacity:.2;stop-color:#000000"/>
+  <path d="m39 31-16 24h5l16-24zm6 0-16 24h5l16-24z" style="fill-opacity:.2"/>
+  <path d="m15 42 7.5 11.25 2.5-3.75-5-7.5zm6 0 4.5 6.75 2.5-3.75-2-3z" style="fill:url(#linearGradient4619);stop-color:#000000"/>
+  <path d="m39 30-16 24h5l16-24zm6 0-16 24h5l16-24z" style="fill:url(#linearGradient4580);stop-color:#000000"/>
+  <path d="M 39,30 23,54 h 0.666016 L 39,31 h 4.333984 L 44,30 Z m 6,0 -16,24 h 0.666016 L 45,31 h 4.333984 L 50,30 Z" style="fill-opacity:.2;fill:#ffffff;stop-color:#000000"/>
+  <path d="m 15,42 0.666016,1 H 20 L 24.666016,50 25,49.5 20,42 Z m 6,0 0.666016,1 H 26 L 27.666016,45.5 28,45 26,42 Z" style="fill-opacity:.2;fill:#ffffff;stop-color:#000000"/>
+ </g>
+</svg>
